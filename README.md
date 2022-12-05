@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: C:\Users\DeLL\Videos\Captures\challenge1\index.html
+- Solution URL: https://github.com/sakshi2028/product-preview-card-
 - Live Site URL:  https://sakshi2028.github.io/product-preview-card-/
 
 
